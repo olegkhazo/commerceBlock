@@ -1,0 +1,22 @@
+<svg id="titleofownership" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Group_3768" data-name="Group 3768" transform="translate(344.307 42.882)">
+    <g id="Group_3765" data-name="Group 3765">
+      <rect id="Rectangle_2456" data-name="Rectangle 2456" width="64" height="64" transform="translate(-344.307 -42.882)" fill="none"/>
+      <g id="Group_3764" data-name="Group 3764">
+        <path id="Path_2560" data-name="Path 2560" d="M-293.149-3.038H-311.3l2.482-11.169h13.263Z" fill="#fff" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_2561" data-name="Path 2561" d="M-318.977-25.375h13.34l2.482,11.169H-321.3Z" fill="#fff" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_2562" data-name="Path 2562" d="M-329.06-14.207h13.34l2.482,11.169h-18.149Z" fill="#fff" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_2563" data-name="Path 2563" d="M-341.624,8.131l2.482-11.169h13.34l2.482,11.169Z" fill="#fff" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_2564" data-name="Path 2564" d="M-321.459,8.131l2.482-11.169h13.34l2.482,11.169Z" fill="#fff" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_2565" data-name="Path 2565" d="M-301.293,8.131l2.482-11.169h13.34l2.482,11.169Z" fill="#fff" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Group_3767" data-name="Group 3767">
+      <path id="Path_2566" data-name="Path 2566" d="M-332.837-42.7a10.537,10.537,0,0,0-10.525,10.524A10.538,10.538,0,0,0-332.837-21.65a10.537,10.537,0,0,0,10.525-10.526A10.536,10.536,0,0,0-332.837-42.7Z" fill="#d9b52d"/>
+      <g id="Group_3766" data-name="Group 3766">
+        <path id="Path_2567" data-name="Path 2567" d="M-330.584-31.131h-4.506c-1.854,0-3.362,1.236-3.362,2.756V-25.5a10.845,10.845,0,0,0,5.615,1.556,10.867,10.867,0,0,0,5.615-1.552v-2.879C-327.222-29.9-328.73-31.131-330.584-31.131Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_2568" data-name="Path 2568" d="M-332.832-39.305a3.216,3.216,0,0,0-3.212,3.212,3.216,3.216,0,0,0,3.212,3.213,3.221,3.221,0,0,0,3.221-3.213A3.22,3.22,0,0,0-332.832-39.305Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

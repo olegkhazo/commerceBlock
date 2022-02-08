@@ -1,0 +1,17 @@
+<svg id="kycaml" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect id="Rectangle_2457" data-name="Rectangle 2457" width="64" height="64" fill="none"/>
+  <g id="Group_3770" data-name="Group 3770" transform="translate(189.813 40.09)">
+    <rect id="Rectangle_2458" data-name="Rectangle 2458" width="60.698" height="40.186" transform="translate(-188.162 -28.183)" fill="#fff" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_376" data-name="Line 376" x2="28.046" transform="translate(-159.813 -17.151)" fill="none" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_377" data-name="Line 377" x2="17.368" transform="translate(-159.813 -11.167)" fill="none" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_378" data-name="Line 378" x2="6.7" transform="translate(-138.378 -11.167)" fill="none" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_379" data-name="Line 379" x2="28.046" transform="translate(-159.813 -5.046)" fill="none" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_380" data-name="Line 380" x2="9.368" transform="translate(-159.813 1.011)" fill="none" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_381" data-name="Line 381" x2="14.7" transform="translate(-146.378 1.011)" fill="none" stroke="#d9b52d" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+  <path id="Path_2569" data-name="Path 2569" d="M-174.219-17.718a9.638,9.638,0,0,0-9.627,9.627,9.639,9.639,0,0,0,9.627,9.629,9.639,9.639,0,0,0,9.628-9.629A9.639,9.639,0,0,0-174.219-17.718Z" transform="translate(189.813 40.09)" fill="#d9b52d"/>
+  <g id="Group_3771" data-name="Group 3771" transform="translate(189.813 40.09)">
+    <path id="Path_2570" data-name="Path 2570" d="M-172.157-7.135h-4.123a2.843,2.843,0,0,0-3.075,2.521v2.63a9.923,9.923,0,0,0,5.136,1.423,9.938,9.938,0,0,0,5.137-1.42V-4.614A2.844,2.844,0,0,0-172.157-7.135Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2571" data-name="Path 2571" d="M-174.214-14.613a2.943,2.943,0,0,0-2.939,2.939,2.942,2.942,0,0,0,2.939,2.939,2.947,2.947,0,0,0,2.947-2.939A2.947,2.947,0,0,0-174.214-14.613Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="speedysettlement" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_3729" data-name="Group 3729" transform="translate(611.612 -169.462)">
+    <rect id="Rectangle_2438" data-name="Rectangle 2438" width="40" height="40" transform="translate(-611.612 169.462)" fill="none"/>
+  </g>
+  <g id="Group_3733" data-name="Group 3733" transform="translate(611.612 -169.462)">
+    <g id="Path_2466" data-name="Path 2466">
+      <path id="Path_2535" data-name="Path 2535" d="M-586.825,205.934h-.074A14.482,14.482,0,0,1-598,200.62l.773-.635a13.481,13.481,0,0,0,10.336,4.949h.068a13.174,13.174,0,0,0,13.137-12.35,13.233,13.233,0,0,0-12.06-13.938l-.121-.01-.338-.211-.031-.3v-2.819h2.355a.653.653,0,0,0,.467-.194.652.652,0,0,0,.193-.467.661.661,0,0,0-.66-.659h-6.03a.663.663,0,0,0-.661.661.661.661,0,0,0,.194.466.657.657,0,0,0,.465.193h2.36v3.146l-.505.19a12.9,12.9,0,0,0-9.164,4.92l-.828-.561.034-.046a13.906,13.906,0,0,1,9.463-5.271v-1.378h-1.361a1.645,1.645,0,0,1-1.17-.485,1.649,1.649,0,0,1-.488-1.173,1.663,1.663,0,0,1,1.658-1.662h6.033a1.661,1.661,0,0,1,1.66,1.659,1.645,1.645,0,0,1-.485,1.174,1.646,1.646,0,0,1-1.173.487h-1.357v1.381a14.245,14.245,0,0,1,12.548,14.956A14.176,14.176,0,0,1-586.825,205.934Z" fill="#3d9155"/>
+    </g>
+    <g id="Path_2467" data-name="Path 2467">
+      <path id="Path_2536" data-name="Path 2536" d="M-579.838,193.193h-6.245a1.5,1.5,0,0,1-1.415-1.382l0-8.381h1l0,8.347a.482.482,0,0,0,.45.417h6.211Z" fill="#3d9155"/>
+    </g>
+    <g id="Group_3730" data-name="Group 3730">
+      <rect id="Rectangle_2439" data-name="Rectangle 2439" width="8.863" height="1" transform="translate(-606.846 187.249)" fill="#3d9155"/>
+    </g>
+    <g id="Group_3731" data-name="Group 3731">
+      <rect id="Rectangle_2440" data-name="Rectangle 2440" width="8.863" height="1" transform="translate(-606.846 195.223)" fill="#3d9155"/>
+    </g>
+    <g id="Group_3732" data-name="Group 3732">
+      <rect id="Rectangle_2441" data-name="Rectangle 2441" width="12.081" height="1" transform="translate(-610.063 191.236)" fill="#3d9155"/>
+    </g>
+  </g>
+</svg>
