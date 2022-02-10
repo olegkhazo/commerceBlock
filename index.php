@@ -76,11 +76,12 @@
 
 						<p class="team__behind"><b>Team behind CommerceBlock.</b></p>
 						<p>Leaders in finance, cryptography, tech, and privacy.<br>
-							Nicholas Gregory - Director, CEO. (LinkedIn/Twitter link)<br>
-							Dr. Tom Trevethan - CTO. (LinkedIn/Twitter link)<br>
-							Danny Masters - Director. (LinkedIn/Twitter link)<br>
-							Jon Matonis - Director. (LinkedIn/Twitter link)<br>
-							Bob McElrath - Advisor. (LinkedIn/Twitter link)</p>
+							Nicholas Gregory - Director, CEO. (<a href="https://www.linkedin.com/in/nicholas-gregory-7379121/">LinkedIn</a>/<a href="https://twitter.com/gregory_nico">Twitter</a> link)<br>
+							Dr. Tom Trevethan - CTO. (<a href="https://www.linkedin.com/in/tomtrevethan/">LinkedIn</a>/<a href="https://twitter.com/TTrevethan">Twitter</a> link)<br>
+							Danny Masters - Director. (<a href="https://www.linkedin.com/in/danielmastersuk/ ">LinkedIn</a>/<a href="https://twitter.com/dannylmasters
+                            ">Twitter</a> link)<br>
+							Jon Matonis - Director. (<a href="https://www.linkedin.com/in/jonmatonis/">LinkedIn</a>/<a href="https://twitter.com/jonmatonis">Twitter</a> link)<br>
+							Bob McElrath - Advisor. (<a href="https://www.linkedin.com/in/bobmcelrath/ ">LinkedIn</a>/<a href="https://twitter.com/BobMcElrath">Twitter</a> link)</p>
 						<div class="mt-auto" style="display: none">
 							<hr>
 							<a href="https://blog.commerceblock.com" target="_blank">READ MORE FROM OUR BLOG »</a>
@@ -104,7 +105,7 @@
 						<!-- <div class="prodacts__left"> -->
 							<div class="mercury__header">
 								<img src="images/logo.png" class="mercury__logo">
-								<h3 class="slidetoggle__heading mercury__heading"><a href="/mainstay"
+								<h3 class="slidetoggle__heading mercury__heading"><a href="https://mercurywallet.com/"
 										style="font-size: 23px;"><b>Mercury Protocol</b></a></h3>
 							</div>
 							<div class="d-flex align-items-start pb-3 slidetoggle">
@@ -131,7 +132,7 @@
 								</h3>
 
 							</div>
-							<h3 class="slidetoggle__heading"><a href="https://github.com/commerceblock"
+							<h3 class="slidetoggle__heading"><a href="https://github.com/commerceblock/lockbox"
 									style="font-size: 23px;"><b>Trusted computing</b></a></h3>
 							<div class="px-md-0 px-0" style="margin-bottom: 20px;">
 								<div class="d-flex align-items-start pb-3 slidetoggle">
@@ -146,7 +147,7 @@
 								<!--h3 class="slidetoggle__heading" data-image="/images/mainstay-research.png">MainStay</h3-->
 								<div class="slidetoggle__content width__block">
 									<p class="">
-										<a href="/mainstay">Mainstay</a> - Highly scalable protocol that enables
+										<a href="https://mainstay.xyz/">Mainstay</a> - Highly scalable protocol that enables
 										generation
 										and verification of trustless
 										timestamps and proof-of-publication for arbitrary data or documents.
@@ -159,7 +160,7 @@
 							<div class="d-flex align-items-start pb-3 slidetoggle width__block">
 								<!--h3 class="slidetoggle__heading" data-image="/images/mainstay-research.png">MainStay</h3-->
 								<div class="slidetoggle__content">
-									<b>Asset Sidechains</b> - Fully customisable federated and permissioned blockchains
+									<b> <a href="https://github.com/commerceblock/ocean">Asset Sidechains</a></b> - Fully customisable federated and permissioned blockchains
 									for asset-backed token issuance using our Bitcoin-based Ocean protocol. Link
 								</div>
 							</div>
