@@ -44,7 +44,7 @@
 				role="alert">
 				<div class="text--grey mb-3 mb-sm-0 pr-sm-4">In order to provide a better experience and ensure proper
 					functioning of the website we may occasionally store small data files, so-called cookies on your
-					device. More detailed information can be found in our <a href="/privacy-policy.html">Privacy
+					device. More detailed information can be found in our <a href="/privacy-policy.php">Privacy
 						Policy.</a></div>
 				<button type="button" class="btn acceptcookies" aria-label="Close">
 					Agree
@@ -196,16 +196,14 @@
 						<div class="w-50">
 							<div>
 								<h3 class="commerce__block__h3">Build with Us.</h3>
-								<p>Contact us to schedule a call if you would like to build with us. <a class="special__link"
-										href="https://github.com/commerceblock">Link</a></p>
+								<p>Contact us to schedule a call if you would like to build with us.</p>
 										<a href="https://commerceblock.typeform.com/to/QOh8G9" target="_blank" class="btn--white" style="color: #45ad6e;font-weight:bold"
 								target="_blank">Inquire now</a>
 
 							</div>
 							<div>
 								<h3 class="commerce__block__h3">Work with Us.</h3>
-								<p>Check out our AngelList open positions. <a class="special__link" 
-										href="https://angel.co/company/commerceblock">Link</a></p>
+								<p>Check out our AngelList open positions.</p>
 
 							</div>
 						</div>
