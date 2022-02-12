@@ -377,7 +377,7 @@
 				</div>
 				<ul class="privacy">
 					<li>
-						<a href="/privacy-policy.html" target="_blank">Privacy Policy</a>
+						<a href="/privacy-policy.php" target="_blank">Privacy Policy</a>
 					</li>
 				</ul>
 			</div>
